@@ -1,6 +1,7 @@
 # Coursera
 
-This is where I am going to keep my code for classes I am refreshing on or learning.
+This is where I am going to keep my code for classes I am refreshing on, learning or taking with friends
+who are just starting out.
 
 Liscense:
 <hr>
